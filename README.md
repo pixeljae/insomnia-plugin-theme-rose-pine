@@ -4,8 +4,5 @@
 
 ![Screenshot](./screenshot.png)
 
-This theme is maintained by
-[![Pixelninjas](https://github.com/pixeljae) |
-
 ## License
 [MIT License](./LICENSE)
