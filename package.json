@@ -1,0 +1,33 @@
+{
+  "name": "insomnia-plugin-theme-rose-pine",
+  "version": "1.0.0",
+  "description": "Rose Pine Theme. All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
+  "license": "MIT",
+  "main": "index.js",
+  "insomnia": {
+    "name": "theme-rose-pine",
+    "description": "Rose Pine Theme For Insomnia. All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
+    "images": {
+      "icon": "icon.svg",
+      "cover": "screenshot.png"
+    }
+  },
+  "keywords": [
+    "rosepine",
+    "theme",
+    "insomnia",
+    "insomnia-plugin"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixeljae/px-rose-pine-insomnia.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/pixeljae/px-rose-pine-insomnia/issues"
+  },
+  "homepage": "https://rosepinetheme.com"
+}
